@@ -1,0 +1,15 @@
+print("Biodata Saya")
+print("============")
+
+nama = str(input("Masukkan Nama Anda : "))
+npm = str(input("Masukkan NPM Anda   : "))
+umur = int(input("Masukkan Umur Anda : "))
+prodi = str(input("Masukkan Program Studi Anda : "))
+univ = str(input("Masukkan Universitas Anda : "))
+
+print("\n")
+print("Nama : ", nama)
+print("NPM  : ", npm)
+print("Umur : ", umur)
+print("Program Studi : ", prodi)
+print("Universitas : ", univ)
